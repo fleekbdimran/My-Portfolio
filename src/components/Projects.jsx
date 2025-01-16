@@ -1,4 +1,5 @@
 
+import AdminDashboard from '../assets/AdminDashboard.png'
 import ECommerce from '../assets/ECommerce.png'
 import Hunt from '../assets/Hunt.png'
 import chattingapp from '../assets/chattingapp.png'
@@ -10,6 +11,13 @@ import Cards from './Cards'
 const Projects = () => {
 
     const projectJson = [
+        {
+          title: 'Admin Dashboard',
+          desc: 'Email:admin@example.com Pass:1234. Their professionalism and dedication to our project were outstanding.',
+          image: AdminDashboard,
+          live: "https://finwise-admin-frontend-lpzr5ek3u-fleekbds-projects.vercel.app/",
+          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
+        },
         {
           title: 'ECommerce',
           desc: 'Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.',
@@ -29,7 +37,7 @@ const Projects = () => {
           desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
           image: chattingapp,
           live: "https://chat-application-14p.pages.dev/",
-          github: "https://github.com/rohitsingh93300/YouTube-clone"
+          github: "https://github.com/chowdhuryimran/Chat-Application"
         },
         {
           title: 'Modern React Website',
