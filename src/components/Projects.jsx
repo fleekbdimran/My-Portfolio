@@ -15,7 +15,7 @@ const Projects = () => {
           title: 'Admin Dashboard',
           desc: 'Email:admin@example.com Pass:1234. Their professionalism and dedication to our project were outstanding.',
           image: AdminDashboard,
-          live: "https://finwise-admin-frontend-lpzr5ek3u-fleekbds-projects.vercel.app/",
+          live: "https://finwise-admin-frontend.vercel.app/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
