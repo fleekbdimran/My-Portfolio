@@ -5,12 +5,20 @@ import Hunt from '../assets/Hunt.png'
 import chattingapp from '../assets/chattingapp.png'
 import ModernReact from '../assets/ModernReact.png'
 import Buffer from '../assets/Buffer.png'
+import AdminTenderWise from '../assets/AdminTenderWise.png'
 import Cards from './Cards'
 
 
 const Projects = () => {
 
     const projectJson = [
+        {
+          title: 'Tender Wise Admin',
+          desc: 'Phone:01620088882 Pass:ImraN@00 Their professionalism and dedication to our project were outstanding.',
+          image: AdminTenderWise,
+          live: "https://admin.tenderwise.xyz/",
+          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
+        },
         {
           title: 'Admin Dashboard',
           desc: 'Email:admin@example.com Pass:1234. Their professionalism and dedication to our project were outstanding.',
