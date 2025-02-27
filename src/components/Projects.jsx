@@ -13,7 +13,14 @@ const Projects = () => {
 
     const projectJson = [
         {
-          title: 'Tender Wise Admin',
+          title: 'Tender Wise (User)',
+          desc: 'Phone:01618657265 Pass:nobi@65 Their professionalism and dedication to our project were outstanding.',
+          image: AdminTenderWise,
+          live: "https://tenderwise.xyz/",
+          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
+        },
+        {
+          title: 'Tender Wise (Admin)',
           desc: 'Phone:01620088882 Pass:ImraN@00 Their professionalism and dedication to our project were outstanding.',
           image: AdminTenderWise,
           live: "https://admin.tenderwise.xyz/",
