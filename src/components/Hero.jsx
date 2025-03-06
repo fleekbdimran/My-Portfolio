@@ -1,4 +1,4 @@
-import React from 'react'
+
 import joy from '../assets/Hero.png'
 import facebook from '../assets/facebook.png'
 import twitter from '../assets/twitter.png'

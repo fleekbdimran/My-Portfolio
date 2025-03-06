@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import Logo from '../assets/imran1.png'
 import { Menu, X } from 'lucide-react'
 
@@ -13,6 +13,7 @@ const Navbar = () => {
             <h2
               className='text-black text-2xl font-bold uppercase tracking-wide  hover:scale-105 transition-transform duration-300'>
               Imran
+              
             </h2>
 
           </a>

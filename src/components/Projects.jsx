@@ -6,6 +6,7 @@ import chattingapp from '../assets/chattingapp.png'
 import ModernReact from '../assets/ModernReact.png'
 import Buffer from '../assets/Buffer.png'
 import AdminTenderWise from '../assets/AdminTenderWise.png'
+import Tenderuser from '../assets/Tenderuser.png'
 import Cards from './Cards'
 
 
@@ -14,20 +15,20 @@ const Projects = () => {
     const projectJson = [
         {
           title: 'Tender Wise (User)',
-          desc: 'Phone:01618657265 Pass:nobi@65 Their professionalism and dedication to our project were outstanding.',
-          image: AdminTenderWise,
+          desc: 'Their professionalism and dedication to our project were outstanding.',
+          image: Tenderuser,
           live: "https://tenderwise.xyz/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
           title: 'Tender Wise (Admin)',
-          desc: 'Phone:01620088882 Pass:ImraN@00 Their professionalism and dedication to our project were outstanding.',
+          desc: 'Phone:01618657265 Pass:Imran@65 Their professionalism and dedication to our project were outstanding.',
           image: AdminTenderWise,
           live: "https://admin.tenderwise.xyz/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
-          title: 'Admin Dashboard',
+          title: 'Admin Dashboard (Design)',
           desc: 'Email:admin@example.com Pass:1234. Their professionalism and dedication to our project were outstanding.',
           image: AdminDashboard,
           live: "https://finwise-admin-frontend.vercel.app/",
