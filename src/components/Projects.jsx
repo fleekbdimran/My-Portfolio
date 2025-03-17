@@ -22,14 +22,14 @@ const Projects = () => {
         },
         {
           title: 'Tender Wise (Admin)',
-          desc: 'Phone:01618657265 Pass:Imran@65 Their professionalism and dedication to our project were outstanding.',
+          desc: 'Phone:01618657265 Pass:Imran@65',
           image: AdminTenderWise,
           live: "https://admin.tenderwise.com.bd/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
           title: 'Admin Dashboard (Design)',
-          desc: 'Email:admin@example.com Pass:1234. Their professionalism and dedication to our project were outstanding.',
+          desc: 'Email:admin@example.com Pass:1234.',
           image: AdminDashboard,
           live: "https://finwise-admin-frontend.vercel.app/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
