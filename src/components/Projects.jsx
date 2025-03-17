@@ -17,14 +17,14 @@ const Projects = () => {
           title: 'Tender Wise (User)',
           desc: 'Their professionalism and dedication to our project were outstanding.',
           image: Tenderuser,
-          live: "https://tenderwise.xyz/",
+          live: "https://tenderwise.com.bd/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
           title: 'Tender Wise (Admin)',
           desc: 'Phone:01618657265 Pass:Imran@65 Their professionalism and dedication to our project were outstanding.',
           image: AdminTenderWise,
-          live: "https://admin.tenderwise.xyz/",
+          live: "https://admin.tenderwise.com.bd/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
