@@ -14,57 +14,57 @@ const Projects = () => {
 
     const projectJson = [
         {
-          title: 'Tender Wise (User)',
-          desc: 'Their professionalism and dedication to our project were outstanding.',
+          title: 'Tender Wise |React|',
+          desc: '|Frontend-Design & Development|',
           image: Tenderuser,
           live: "https://tenderwise.com.bd/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
-          title: 'Tender Wise (Admin)',
-          desc: 'Phone:01618657265 Pass:Imran@65',
+          title: 'Tender Wise |React|',
+          desc: '|Frontend-Design & Development|',
           image: AdminTenderWise,
           live: "https://admin.tenderwise.com.bd/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
-          title: 'Admin Dashboard (Design)',
-          desc: 'Email:admin@example.com Pass:1234.',
+          title: 'Admin Dashboard |React|',
+          desc: '|Frontend-Design|',
           image: AdminDashboard,
           live: "https://finwise-admin-frontend.vercel.app/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
-          title: 'ECommerce',
-          desc: 'Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.',
+          title: 'ECommerce |React|',
+          desc: '|Frontend-Design & Development|',
           image: ECommerce,
           live: "https://react-e-commerce-website12.netlify.app/",
           github: "https://github.com/devchowdhuryjoy/React-E-Commerce-Website"
         },
         {
-          title: 'Hunt',
-          desc: 'The team at Webelite Builders exceeded our expectations with their digital marketing expertise. Highly recommend!',
+          title: 'Hunt |HTML, CSS, Bootstrap, Javascript|',
+          desc: '|Frontend-Design|',
           image: Hunt,
           live: "https://devchowdhuryjoy.github.io/Hunt/",
           github: "https://github.com/devchowdhuryjoy/Hunt"
         },
         {
-          title: 'Chatting App',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+          title: 'Chatting App |React + Firebase|',
+          desc: '|Frontend-Design & Development|',
           image: chattingapp,
           live: "https://chat-application-14p.pages.dev/",
           github: "https://github.com/chowdhuryimran/Chat-Application"
         },
         {
-          title: 'Modern React Website',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+          title: 'Modern React Website |React|',
+          desc: '|Frontend-Design|',
           image: ModernReact,
           live: "https://modern-react-website1.netlify.app/",
           github: "https://github.com/devchowdhuryjoy/Modern-React-Website"
         },
         {
-          title: 'Buffer',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+          title: 'Buffer |React|',
+          desc: '|Frontend-Design|',
           image: Buffer,
           live: "https://bf-react-project.vercel.app/",
           github: "https://github.com/devchowdhuryjoy/BF-React-Project"
