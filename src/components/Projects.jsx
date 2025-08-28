@@ -7,12 +7,20 @@ import ModernReact from '../assets/ModernReact.png'
 import Buffer from '../assets/Buffer.png'
 import AdminTenderWise from '../assets/AdminTenderWise.png'
 import Tenderuser from '../assets/Tenderuser.png'
+import manvan from '../assets/man&Van.jpg'
 import Cards from './Cards'
 
 
 const Projects = () => {
 
     const projectJson = [
+        {
+          title: 'Man & Van |Wordpress|',
+          desc: '|Theme Customize|',
+          image: manvan,
+          live: "https://manandvan.theorbit.one/",
+          github: ""
+        },
         {
           title: 'Tender Wise |React|',
           desc: '|Frontend-Design & Development|',
