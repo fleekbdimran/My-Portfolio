@@ -15,7 +15,7 @@ const Projects = () => {
 
     const projectJson = [
         {
-          title: 'Man & Van |Wordpress|',
+          title: 'Man & Van |Wordpress + Mysql|',
           desc: '|Theme Customize|',
           image: manvan,
           live: "https://manandvan.theorbit.one/",
