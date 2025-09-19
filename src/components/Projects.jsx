@@ -8,6 +8,7 @@ import Buffer from '../assets/Buffer.png'
 import AdminTenderWise from '../assets/AdminTenderWise.png'
 import Tenderuser from '../assets/Tenderuser.png'
 import manvan from '../assets/man&Van.jpg'
+import Finwise from '../assets/Finwise.png'
 import Cards from './Cards'
 
 
@@ -20,6 +21,13 @@ const Projects = () => {
           image: manvan,
           live: "https://manandvan.theorbit.one/",
           github: ""
+        },
+        {
+          title: 'FinWise |React|',
+          desc: '|Frontend-Design & Development|',
+          image: Finwise,
+          live: "https://finwise.com.bd/",
+          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
           title: 'Tender Wise |React|',
