@@ -8,6 +8,10 @@ import Buffer from '../assets/Buffer.png'
 import AdminTenderWise from '../assets/AdminTenderWise.png'
 import Tenderuser from '../assets/Tenderuser.png'
 import manvan from '../assets/man&Van.jpg'
+import global from '../assets/global.png'
+import globaladmin from '../assets/globaladmin.png'
+import studyxl from '../assets/studyxl.png'
+import studyadmin from '../assets/studyadmin.png'
 import Finwise from '../assets/Finwise.png'
 import Cards from './Cards'
 
@@ -15,6 +19,34 @@ import Cards from './Cards'
 const Projects = () => {
 
     const projectJson = [
+        {
+          title: 'Study-XL |React + Laravel + Mysql|',
+          desc: '|Full Stack Development|',
+          image: studyxl,
+          live: "https://studyxluser.globalrouteway.com/",
+          github: ""
+        },
+        {
+          title: 'Study-XL (Admin) |React + Laravel + Mysql|',
+          desc: '|Full Stack Development|',
+          image: studyadmin,
+          live: "https://studyxladminpanel.globalrouteway.com/",
+          github: ""
+        },
+        {
+          title: 'Global Routeway |React + Node.js + Mysql|',
+          desc: '|Full Stack Development|',
+          image: global,
+          live: "https://globalrouteway.com/",
+          github: ""
+        },
+        {
+          title: 'Global Routeway (Admin) |React + Node.js + Mysql|',
+          desc: '|Full Stack Development|',
+          image: globaladmin,
+          live: "https://globaladmin.globalrouteway.com/",
+          github: ""
+        },
         {
           title: 'Man & Van |Wordpress + Mysql|',
           desc: '|Theme Customize|',
@@ -29,6 +61,13 @@ const Projects = () => {
           live: "https://finwise.com.bd/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
+         {
+          title: 'FinWise (Admin) |React|',
+          desc: '|Frontend-Design|',
+          image: AdminDashboard,
+          live: "https://finwise-admin-frontend.vercel.app/",
+          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
+        },
         {
           title: 'Tender Wise |React|',
           desc: '|Frontend-Design & Development|',
@@ -37,19 +76,13 @@ const Projects = () => {
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
-          title: 'Tender Wise |React|',
+          title: 'Tender Wise (Admin) |React|',
           desc: '|Frontend-Design & Development|',
           image: AdminTenderWise,
           live: "https://admin.tenderwise.com.bd/",
           github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
-        {
-          title: 'Admin Dashboard |React|',
-          desc: '|Frontend-Design|',
-          image: AdminDashboard,
-          live: "https://finwise-admin-frontend.vercel.app/",
-          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
-        },
+       
         {
           title: 'ECommerce |React|',
           desc: '|Frontend-Design & Development|',
