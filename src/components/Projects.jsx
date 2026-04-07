@@ -14,8 +14,6 @@ import studyxl from '../assets/studyxl.png'
 import studyadmin from '../assets/studyadmin.png'
 import Finwise from '../assets/Finwise.png'
 import ecommerce from '../assets/ecommerce.png'
-
-
 import Cards from './Cards'
 
 
@@ -29,7 +27,7 @@ const Projects = () => {
           desc: '|Full Stack Development|',
           image: ecommerce,
           live: "https://ecommercenext.orbitmediasolutions.com/",
-          github: ""
+          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
         },
         {
           title: 'Study-XL |React + Laravel + Mysql|',
