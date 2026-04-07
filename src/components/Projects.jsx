@@ -13,12 +13,24 @@ import globaladmin from '../assets/globaladmin.png'
 import studyxl from '../assets/studyxl.png'
 import studyadmin from '../assets/studyadmin.png'
 import Finwise from '../assets/Finwise.png'
+import ecommerce from '../assets/ecommerce.png'
+
+
 import Cards from './Cards'
+
 
 
 const Projects = () => {
 
     const projectJson = [
+       
+        {
+          title: 'E-Commerce |React + Laravel + Mysql|',
+          desc: '|Full Stack Development|',
+          image: ecommerce,
+          live: "https://ecommercenext.orbitmediasolutions.com/",
+          github: ""
+        },
         {
           title: 'Study-XL |React + Laravel + Mysql|',
           desc: '|Full Stack Development|',
