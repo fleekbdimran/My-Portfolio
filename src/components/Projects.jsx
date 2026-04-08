@@ -14,6 +14,7 @@ import studyxl from '../assets/studyxl.png'
 import studyadmin from '../assets/studyadmin.png'
 import Finwise from '../assets/Finwise.png'
 import ecommerce from '../assets/ecommerce.png'
+import marriage from '../assets/marriage.png'
 import Cards from './Cards'
 
 
@@ -22,6 +23,13 @@ const Projects = () => {
 
     const projectJson = [
        
+        {
+          title: 'marriage |React + Laravel + Mysql|',
+          desc: '|Full Stack Development|',
+          image: marriage,
+          live: "https://meridiangrand.orbitmediasolutions.com",
+          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
+        },
         {
           title: 'E-Commerce |React + Laravel + Mysql|',
           desc: '|Full Stack Development|',
@@ -107,13 +115,13 @@ const Projects = () => {
           live: "https://devchowdhuryjoy.github.io/Hunt/",
           github: "https://github.com/devchowdhuryjoy/Hunt"
         },
-        {
-          title: 'Chatting App |React + Firebase|',
-          desc: '|Frontend-Design & Development|',
-          image: chattingapp,
-          live: "https://chat-application-14p.pages.dev/",
-          github: "https://github.com/chowdhuryimran/Chat-Application"
-        },
+        // {
+        //   title: 'Chatting App |React + Firebase|',
+        //   desc: '|Frontend-Design & Development|',
+        //   image: chattingapp,
+        //   live: "https://chat-application-14p.pages.dev/",
+        //   github: "https://github.com/chowdhuryimran/Chat-Application"
+        // },
         {
           title: 'Modern React Website |React|',
           desc: '|Frontend-Design|',
@@ -121,13 +129,13 @@ const Projects = () => {
           live: "https://modern-react-website1.netlify.app/",
           github: "https://github.com/devchowdhuryjoy/Modern-React-Website"
         },
-        {
-          title: 'Buffer |React|',
-          desc: '|Frontend-Design|',
-          image: Buffer,
-          live: "https://bf-react-project.vercel.app/",
-          github: "https://github.com/devchowdhuryjoy/BF-React-Project"
-        },
+        // {
+        //   title: 'Buffer |React|',
+        //   desc: '|Frontend-Design|',
+        //   image: Buffer,
+        //   live: "https://bf-react-project.vercel.app/",
+        //   github: "https://github.com/devchowdhuryjoy/BF-React-Project"
+        // },
       ];
 
   return (
