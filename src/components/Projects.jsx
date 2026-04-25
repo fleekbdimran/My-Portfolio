@@ -24,18 +24,18 @@ const Projects = () => {
     const projectJson = [
        
         {
-          title: 'Paltform-E-Commerce |React + Laravel + Mysql|',
+          title: 'E-Commerce |React + Laravel + Mysql|',
           desc: '|Full Stack Development|',
           image: daraz,
           live: "https://ecommercenext.orbitmediasolutions.com",
-          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
+          github: "https://github.com/ImranOrbit/E_Commerce_Backend_Laravel"
         },
         {
-          title: 'marriage Birthday Hotel Booking |React + Laravel + Mysql|',
-          desc: '|Full Stack Development|',
+          title: 'Wedding Birthday Hotel Booking |React|',
+          desc: '|Frontend-Design|',
           image: marriage,
           live: "https://meridiangrand.orbitmediasolutions.com",
-          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
+          github: "https://github.com/ImranOrbit/Wedding"
         },
         
         {
@@ -43,28 +43,28 @@ const Projects = () => {
           desc: '|Full Stack Development|',
           image: studyxl,
           live: "https://studyxluser.globalrouteway.com/",
-          github: ""
+          github: "https://github.com/devchowdhuryjoy/Laravel_Study_XL"
         },
         {
           title: 'Study-XL (Admin) |React + Laravel + Mysql|',
           desc: '|Full Stack Development|',
           image: studyadmin,
           live: "https://studyxladminpanel.globalrouteway.com/",
-          github: ""
+          github: "https://github.com/devchowdhuryjoy/studyxl-Admin-"
         },
         {
           title: 'Global Routeway |React + Node.js + Mysql|',
           desc: '|Full Stack Development|',
           image: global,
           live: "https://globalrouteway.com/",
-          github: ""
+          github: "https://github.com/devchowdhuryjoy/Node-Mysql-Global-Backend"
         },
         {
           title: 'Global Routeway (Admin) |React + Node.js + Mysql|',
           desc: '|Full Stack Development|',
           image: globaladmin,
           live: "https://globaladmin.globalrouteway.com/",
-          github: ""
+          github: "https://github.com/devchowdhuryjoy/Admin-Global-Routeway"
         },
         {
           title: 'Man & Van |Wordpress + Mysql|',
@@ -78,7 +78,7 @@ const Projects = () => {
           desc: '|Frontend-Design & Development|',
           image: Finwise,
           live: "https://finwise.com.bd/",
-          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
+          github: "https://github.com/fleekbdimran/Fin-Wise-Users"
         },
          {
           title: 'FinWise (Admin) |React|',
@@ -92,14 +92,14 @@ const Projects = () => {
           desc: '|Frontend-Design & Development|',
           image: Tenderuser,
           live: "https://tenderwise.com.bd/",
-          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
+          github: "https://github.com/ratul-fleek-bd/tenderwise"
         },
         {
           title: 'Tender Wise (Admin) |React|',
           desc: '|Frontend-Design & Development|',
           image: AdminTenderWise,
           live: "https://admin.tenderwise.com.bd/",
-          github: "https://github.com/fleekbdimran/Finwise_Admin_Frontend"
+          github: "https://github.com/fleekbdimran/Tender_Wise_Frontend_Admin"
         },
        
         {
